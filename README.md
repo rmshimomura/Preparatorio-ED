@@ -4,22 +4,22 @@ Aqui ficarão salvos os códigos que foram expostos nos vídeos do curso prepara
 ### Tópicos a serem abordados:
 
 #### Revisão
-- [ ] Revisão de ponteiros e apresentação do ***```void*```***
-- [ ] Operações com strings (concat, sprintf, fscanf, fprintf)
+- [ ] Revisão de ponteiros e apresentação do ***```void*```*** (Mateus)
+- [ ] Operações com strings (concat, sprintf, fscanf, fprintf) (Rhuan)
 
 #### Ferramentas
-- [ ] Uso do Valgrind *(exclusivo Linux)*
+- [ ] Uso do Valgrind *(exclusivo Linux)* (Mateus)
 
 #### Tutoriais
-- [ ] Manipulação usando Argc e Argv passados para a main pela linha de comando
-- [ ] Flags do gcc (extra) 
-- [ ] Como compilar mais de um arquivo junto
-- [ ] MakeFile
-- [ ] ```#ifndef/#endif``` e ```#define``` 
+- [ ] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
+- [ ] Flags do gcc (extra) (Rodrigo)
+- [ ] Como compilar mais de um arquivo junto (Rodrigo)
+- [ ] MakeFile (Rodrigo)
+- [ ] ```#ifndef/#endif``` e ```#define``` (Enzo)
 
 #### Conhecimentos úteis
-- [ ] Typedef
-- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento)
-- [ ] Passar funções no argumento de outras funções (Enzo)
+- [ ] Typedef (Rhuan)
+- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
+- [ ] Passar funções no argumento de outras funções (Rhuan)
 - [ ] Criação de arquivos ***```.svg```*** a partir do código em C (Enzo)
 - [ ] Operações com arquivos do tipo ***```.geo```*** e ***```.qry```*** (Enzo)
