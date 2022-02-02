@@ -4,7 +4,7 @@ Aqui ficarão salvos os códigos que foram expostos nos vídeos do curso prepara
 ### Tópicos a serem abordados:
 
 #### Revisão
-- [ ] Revisão de ponteiros e apresentação do ***```void*```*** (Mateus)
+- [x] Revisão de ponteiros e apresentação do ***```void*```*** (Mateus)
 - [ ] Operações com strings (concat, sprintf, fscanf, fprintf) (Rhuan)
 
 #### Ferramentas
