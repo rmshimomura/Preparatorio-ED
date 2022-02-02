@@ -1,6 +1,9 @@
 # Preparatório para a disciplina de Estrutura de Dados
 Aqui ficarão salvos os códigos que foram expostos nos vídeos do curso preparatório para Estrutura de Dados (UEL - Segundo semestre)
 
+## Link para os vídeos: 
+https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
+
 ### Tópicos a serem abordados:
 
 #### Revisão
@@ -13,7 +16,7 @@ Aqui ficarão salvos os códigos que foram expostos nos vídeos do curso prepara
 #### Tutoriais
 - [ ] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
 - [x] Flags do gcc (extra) (Rodrigo)
-- [ ] Como compilar mais de um arquivo junto (Rodrigo)
+- [x] Como compilar mais de um arquivo junto (Rodrigo)
 - [ ] MakeFile (Rodrigo)
 - [ ] ```#ifndef/#endif``` e ```#define``` (Enzo)
 
