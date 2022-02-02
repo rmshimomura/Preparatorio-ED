@@ -12,7 +12,7 @@ Aqui ficarão salvos os códigos que foram expostos nos vídeos do curso prepara
 
 #### Tutoriais
 - [ ] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
-- [ x ] Flags do gcc (extra) (Rodrigo)
+- [x] Flags do gcc (extra) (Rodrigo)
 - [ ] Como compilar mais de um arquivo junto (Rodrigo)
 - [ ] MakeFile (Rodrigo)
 - [ ] ```#ifndef/#endif``` e ```#define``` (Enzo)
