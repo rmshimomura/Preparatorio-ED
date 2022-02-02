@@ -4,7 +4,7 @@
 
 int main() {
 
-    int *pInteger;
+    int *pInteger = NULL;
 
     return 0;
 
