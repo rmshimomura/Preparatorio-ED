@@ -1,0 +1,15 @@
+Flags importantes
+
+-std=c99 -> Define como padrao a versao do C
+
+-fstack-protector-all -> Proteger o sistema de Stack Smashing
+
+-g -> Possibilitar o Valgrind encontrar com precisao a linha do erro
+
+-Wall -> Mostrar possiveis erros, e previni-los
+
+-lm -> Possibilitar o uso da <math.h>
+
+-c -> criacao de arquivos objeto (sera usado na aula de make file)
+
+-o -> Mudar o nome do executavel
