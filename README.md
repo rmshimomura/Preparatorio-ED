@@ -11,10 +11,10 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 - [ ] Operações com strings (concat, sprintf, fscanf, fprintf) (Rhuan)
 
 #### Ferramentas
-- [ ] Uso do Valgrind *(exclusivo Linux)* (Mateus)
+- [x] Uso do Valgrind *(exclusivo Linux)* (Mateus)
 
 #### Tutoriais
-- [ ] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
+- [x] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
 - [x] Flags do gcc (extra) (Rodrigo)
 - [x] Como compilar mais de um arquivo junto (Rodrigo)
 - [ ] MakeFile (Rodrigo)
