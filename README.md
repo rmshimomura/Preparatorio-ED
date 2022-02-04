@@ -17,10 +17,10 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 - [x] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
 - [x] Flags do gcc (extra) (Rodrigo)
 - [x] Como compilar mais de um arquivo junto (Rodrigo)
-- [ ] MakeFile (Rodrigo)
+- [x] MakeFile (Rodrigo)
 - [ ] ```#ifndef/#endif``` e ```#define``` (Enzo)
-- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
 - [ ] _Information hiding_ (Mateus)
+- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
 - [ ] Criação de arquivos ***```.svg```*** a partir do código em C (Enzo)
 - [ ] Operações com arquivos do tipo ***```.geo```*** e ***```.qry```*** (Enzo)
 
