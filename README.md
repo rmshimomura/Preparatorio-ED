@@ -19,10 +19,13 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 - [x] Como compilar mais de um arquivo junto (Rodrigo)
 - [ ] MakeFile (Rodrigo)
 - [ ] ```#ifndef/#endif``` e ```#define``` (Enzo)
+- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
+- [ ] _Information hiding_ (Mateus)
+- [ ] Criação de arquivos ***```.svg```*** a partir do código em C (Enzo)
+- [ ] Operações com arquivos do tipo ***```.geo```*** e ***```.qry```*** (Enzo)
 
 #### Conhecimentos úteis
 - [ ] Typedef (Rhuan)
-- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
 - [ ] Passar funções no argumento de outras funções (Rhuan)
-- [ ] Criação de arquivos ***```.svg```*** a partir do código em C (Enzo)
-- [ ] Operações com arquivos do tipo ***```.geo```*** e ***```.qry```*** (Enzo)
+- [ ] Outras maneiras de utilizar o loop ```for``` (Rodrigo)
+- [ ] Diferença entre ```i++``` e ```++i``` (Rodrigo)
