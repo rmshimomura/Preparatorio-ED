@@ -28,5 +28,5 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 - [ ] Typedef (Rhuan)
 - [ ] Passar funções no argumento de outras funções (Rhuan)
 - [ ] Outras maneiras de utilizar o loop ```for``` (Rodrigo)
-- [ ] Diferença entre ```i++``` e ```++i``` (Rodrigo)
+- [x] Diferença entre ```i++``` e ```++i``` (Rodrigo)
 - [ ] Como subir arquivos para um repositório do GitHub (Rodrigo)
