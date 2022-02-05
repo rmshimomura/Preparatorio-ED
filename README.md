@@ -29,4 +29,4 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 - [ ] Passar funções no argumento de outras funções (Rhuan)
 - [ ] Outras maneiras de utilizar o loop ```for``` (Rodrigo)
 - [x] Diferença entre ```i++``` e ```++i``` (Rodrigo)
-- [ ] Como subir arquivos para um repositório do GitHub (Rodrigo)
+- [x] Como subir arquivos para um repositório do GitHub (Rodrigo)
