@@ -1,0 +1,5 @@
+<svg viewBox=" 0 0 20 20 " xmlns="http://www.w3.org/2000/svg">  <!--COMENTÁRIO-->
+	<rect x=" 10 " y=" 10 " width=" 10 " height=" 10 " stroke=" black " stroke-width=" 1px " fill=" red " opacity=" 1 "/>
+	<line x1=" 20 " x2=" 25 " y1=" 20 " y2=" 20 " stroke=" blue " />
+	<circle cx=" 30 " cy=" 30 " r=" 5 " stroke=" green " stroke-width=" 2 " fill=" yellow " opacity=" 0.1 "/>
+</svg>
