@@ -8,7 +8,7 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 
 #### Revisão
 - [x] Revisão de ponteiros e apresentação do ***```void*```*** (Mateus)
-- [ ] Operações com strings (concat, sprintf, fscanf, fprintf) (Rhuan)
+- [x] Operações com strings (concat, sprintf, fscanf, fprintf) (Rhuan)
 
 #### Ferramentas
 - [x] Uso do Valgrind *(exclusivo Linux)* (Mateus)
@@ -20,13 +20,13 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 - [x] MakeFile (Rodrigo)
 - [ ] ```#ifndef/#endif``` e ```#define``` (Enzo)
 - [x] _Information hiding_ (Mateus)
-- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
+- [x] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
 - [ ] Criação de arquivos ***```.svg```*** a partir do código em C (Enzo)
 - [ ] Operações com arquivos do tipo ***```.geo```*** e ***```.qry```*** (Enzo)
 
 #### Conhecimentos úteis
-- [ ] Typedef (Rhuan)
-- [ ] Passar funções no argumento de outras funções (Rhuan)
+- [x] Typedef (Rhuan)
+- [x] Passar funções no argumento de outras funções (Rhuan)
 - [ ] Outras maneiras de utilizar o loop ```for``` (Rodrigo)
 - [x] Diferença entre ```i++``` e ```++i``` (Rodrigo)
 - [x] Como subir arquivos para um repositório do GitHub (Rodrigo)
