@@ -4,7 +4,7 @@ Aqui ficarão salvos os códigos que foram expostos nos vídeos do curso prepara
 ## Link para os vídeos: 
 ***(Importante: Recomendamos assistir na ordem da playlist)***
 
-https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
+https://www.youtube.com/playlist?list=PLZda_a0bIONied3qkzWc4YmcUiUWB77BH
 
 ### Tópicos a serem abordados:
 
