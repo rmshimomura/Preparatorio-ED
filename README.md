@@ -28,6 +28,6 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 
 #### Conhecimentos úteis
 
-- [ ] Outras maneiras de utilizar o loop ```for``` (Rodrigo)
+- [x] Outras maneiras de utilizar o loop ```for``` (Rodrigo)
 - [x] Diferença entre ```i++``` e ```++i``` (Rodrigo)
 - [x] Como subir arquivos para um repositório do GitHub (Rodrigo)
