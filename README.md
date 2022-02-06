@@ -7,22 +7,26 @@ https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 ### Tópicos a serem abordados:
 
 #### Revisão
-- [ ] Revisão de ponteiros e apresentação do ***```void*```*** (Mateus)
+- [x] Revisão de ponteiros e apresentação do ***```void*```*** (Mateus)
 - [ ] Operações com strings (concat, sprintf, fscanf, fprintf) (Rhuan)
 
 #### Ferramentas
-- [ ] Uso do Valgrind *(exclusivo Linux)* (Mateus)
+- [x] Uso do Valgrind *(exclusivo Linux)* (Mateus)
 
 #### Tutoriais
-- [ ] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
+- [x] Manipulação usando Argc e Argv passados para a main pela linha de comando (Mateus)
 - [x] Flags do gcc (extra) (Rodrigo)
-- [ ] Como compilar mais de um arquivo junto (Rodrigo)
-- [ ] MakeFile (Rodrigo)
+- [x] Como compilar mais de um arquivo junto (Rodrigo)
+- [x] MakeFile (Rodrigo)
 - [ ] ```#ifndef/#endif``` e ```#define``` (Enzo)
+- [x] _Information hiding_ (Mateus)
+- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
+- [ ] Criação de arquivos ***```.svg```*** a partir do código em C (Enzo)
+- [ ] Operações com arquivos do tipo ***```.geo```*** e ***```.qry```*** (Enzo)
 
 #### Conhecimentos úteis
 - [ ] Typedef (Rhuan)
-- [ ] Estrutura de dados agnóstica (lista duplamente ligada usando void* como elemento) (Rhuan)
 - [ ] Passar funções no argumento de outras funções (Rhuan)
-- [ ] Criação de arquivos ***```.svg```*** a partir do código em C (Enzo)
-- [ ] Operações com arquivos do tipo ***```.geo```*** e ***```.qry```*** (Enzo)
+- [ ] Outras maneiras de utilizar o loop ```for``` (Rodrigo)
+- [x] Diferença entre ```i++``` e ```++i``` (Rodrigo)
+- [x] Como subir arquivos para um repositório do GitHub (Rodrigo)
