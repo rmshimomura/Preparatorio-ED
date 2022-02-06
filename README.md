@@ -2,6 +2,8 @@
 Aqui ficarão salvos os códigos que foram expostos nos vídeos do curso preparatório para Estrutura de Dados (UEL - Segundo semestre)
 
 ## Link para os vídeos: 
+***(Importante: Recomendamos assistir na ordem da playlist)***
+
 https://www.youtube.com/playlist?list=PLZda_a0bIONgbyig4AgnsGZ5r7omIkc5F
 
 ### Tópicos a serem abordados:
